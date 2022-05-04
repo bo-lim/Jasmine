@@ -1,6 +1,11 @@
 # Jasmine
 CAU 2021-2 Capstone Design Project Repository   
-Check more Detail at [Link](http://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=25)   
+
+
+Check more Detail at 
+- [Jasmine_final_report](https://github.com/bo-lim/Jasmine/files/8618108/_.pdf)
+- [Competition](http://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=25)   
+
 Check out Presentation at [Link](https://youtu.be/AJ_jO4Orc58) - Youtube Link
 
 ## 👪 Teammates
