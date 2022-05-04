@@ -5,9 +5,10 @@ Check out Presentation at [Link](https://youtu.be/AJ_jO4Orc58) - Youtube Link
 
 ## 👪 Teammates
 - Team name: **자신만만 스피치 비타민, 자스민(Jasmine)**
-- **Seunguk Yu**: School of Computer Science & Engineering in CAU   
-- **Bolim Lee**: School of Computer Science & Engineering in CAU   
-- **Sanghwa Lee**: School of Computer Science & Engineering in CAU, Team Leader
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Seunguk Yu** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Bolim Lee** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Sanghwa Lee**
+
+<img width="660" alt="스크린샷 2022-05-04 오후 2 32 33" src="https://user-images.githubusercontent.com/55435898/166627499-6ca8e168-710a-41f6-bec6-f50ee8b2f7c9.png">
 
 ## 💡 Prototype
 **Flow**
