@@ -3,7 +3,8 @@ CAU 2021-2 Capstone Design Project Repository
 
 
 Check more Detail at 
-- [Jasmine_final_report](https://github.com/bo-lim/Jasmine/files/8618108/_.pdf)
+- [Jasmine_final_report](https://github.com/bo-lim/Jasmine/blob/master/assets/자스민_compressed.pdf)
+- [User Manual](https://github.com/bo-lim/Jasmine/blob/master/assets/자스민_사용자메뉴얼_compressed.pdf)
 - [Competition](http://www.swaicau.com/bbs/board.php?bo_table=program8&wr_id=25)   
 
 Check out Presentation at [Link](https://youtu.be/AJ_jO4Orc58) - Youtube Link
