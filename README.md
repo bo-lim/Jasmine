@@ -1,5 +1,5 @@
 # Jasmine
-CAU 2021-2 Capstone Design Project Repository   
+2021-2 Capstone Design Project Repository   
 
 
 Check more Detail at 
